@@ -33,16 +33,6 @@ Welcome to a modern, responsive, and clean **E-Commerce Web App** — built to d
 
 ---
 
-## 📸 Screenshots
-
-> _You can add real screenshots from your project here_
-
-| Home Page                      | Product Grid                    | Cart Page                     |
-|-------------------------------|----------------------------------|-------------------------------|
-| ![home](./screenshots/home.png) | ![products](./screenshots/products.png) | ![cart](./screenshots/cart.png) |
-
----
-
 ## 🚀 Getting Started (Optional)
 
 > If you want to run this project locally:
