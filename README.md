@@ -2,7 +2,7 @@
 
 Welcome to a modern, responsive, and clean **E-Commerce Web App** — built to deliver a smooth, engaging shopping experience to users. Designed with simplicity, usability, and mobile-first responsiveness in mind.
 
-![ecommerce-banner](https://user-images.githubusercontent.com/0000000/your-banner-image.png) <!-- Replace this with a real image if available -->
+![ecommerce-banner](https://yash21102001.github.io/e-commerce/assets/img/NEW_PB__Banner_WEB_1440x.jpg) <!-- Replace this with a real image if available -->
 
 ---
 
